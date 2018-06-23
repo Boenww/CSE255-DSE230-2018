@@ -1,4 +1,4 @@
-# CSE255-DSE230-2018
+# Course-DataMining_Analytics
 Public Repository of CSE255 / DSE230, spring 2018
 
 1. MapReduce and Spark
